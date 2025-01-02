@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver", "QuadraticSolver\QuadraticSolver.csproj", "{45207B06-54D9-4FF3-B9BD-075CAED5AEE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver.Tests", "QuadraticSolver.Tests\QuadraticSolver.Tests.csproj", "{F9707D68-C7EB-42FE-B992-F940889ECB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver.ConsoleApp", "QuadraticSolver.ConsoleApp\QuadraticSolver.ConsoleApp.csproj", "{67E7D3A4-E62F-444B-8E7D-62EF8CD1171F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{45207B06-54D9-4FF3-B9BD-075CAED5AEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45207B06-54D9-4FF3-B9BD-075CAED5AEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45207B06-54D9-4FF3-B9BD-075CAED5AEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9707D68-C7EB-42FE-B992-F940889ECB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9707D68-C7EB-42FE-B992-F940889ECB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9707D68-C7EB-42FE-B992-F940889ECB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9707D68-C7EB-42FE-B992-F940889ECB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E7D3A4-E62F-444B-8E7D-62EF8CD1171F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E7D3A4-E62F-444B-8E7D-62EF8CD1171F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E7D3A4-E62F-444B-8E7D-62EF8CD1171F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E7D3A4-E62F-444B-8E7D-62EF8CD1171F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
