@@ -2,9 +2,9 @@
 
 This is a simple academic project demonstrating how to solve quadratic equations in the form:
 
-\[
+$$
 a \times x^2 + b \times x + c = 0
-\]
+$$
 
 It consists of:
 - A **library** that provides the logic to compute the number of real roots and their values,
